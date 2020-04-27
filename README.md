@@ -7,6 +7,7 @@ _Acá encontraras todas las extensiones que usaremos en la asignatura_
 _Recuerda que debes tener instalado._
 
  **Visual Studio Code** en su ultima version.
+ 
  **Python** 3.8.2.
 
 ### Extensiones 🔧
@@ -28,7 +29,7 @@ _Monokai Night Theme_
 
 
 ## Documentos 📄
-_Monokai Night Theme_
+_Documentos de Python_
 * [Documentos de Python](https://drive.google.com/drive/folders/1jiprpaEvKzWs2EfLV8UBfx2LGfEr00kA?usp=sharing
 ) - Material Complementario a la clase
 
