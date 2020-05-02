@@ -27,6 +27,12 @@ _Material Icon Theme_
 _Monokai Night Theme_
 * [Terminal](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-monokai-night) - Tema de Visual Studio
 
+## Apps no obligatorias, _recomendadas_ 🧑‍💻
+* [CMDER](https://cmder.net/) - Terminal Alternativa,
+dispone de comandos de linux y windows en una sola terminal
+
+* [Hyper](https://hyper.is/) - Terminal Alternativa,
+gran cantidad de plugins para mejorar el rendimiento al momento de trabajar 
 
 ## Documentos 📄
 _Documentos de Python_
@@ -34,8 +40,9 @@ _Documentos de Python_
 ) - Material Complementario a la clase
 
 
+
 ## Cursos Recomendados📺
-* [Documentos de Python](https://www.udemy.com/course/aprende-el-lenguaje-de-programacion-python3-practicando) - Curso Creado por Alvaro Chirou
+* [Curso de Python](https://www.udemy.com/course/aprende-el-lenguaje-de-programacion-python3-practicando) - Curso Creado por Alvaro Chirou
 
 
 ## Expresiones de Gratitud 🎁
